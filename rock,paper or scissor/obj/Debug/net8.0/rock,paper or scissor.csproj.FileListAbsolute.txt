@@ -1,0 +1,14 @@
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\bin\Debug\net8.0\rock,paper or scissor.exe
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\bin\Debug\net8.0\rock,paper or scissor.deps.json
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\bin\Debug\net8.0\rock,paper or scissor.runtimeconfig.json
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\bin\Debug\net8.0\rock,paper or scissor.dll
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\bin\Debug\net8.0\rock,paper or scissor.pdb
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\obj\Debug\net8.0\rock,paper or scissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\obj\Debug\net8.0\rock,paper or scissor.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\obj\Debug\net8.0\rock,paper or scissor.AssemblyInfo.cs
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\obj\Debug\net8.0\rock,paper or scissor.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\obj\Debug\net8.0\rock,paper or scissor.dll
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\obj\Debug\net8.0\refint\rock,paper or scissor.dll
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\obj\Debug\net8.0\rock,paper or scissor.pdb
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\obj\Debug\net8.0\rock,paper or scissor.genruntimeconfig.cache
+C:\Users\justi\source\repos\rock,paper or scissor\rock,paper or scissor\obj\Debug\net8.0\ref\rock,paper or scissor.dll
